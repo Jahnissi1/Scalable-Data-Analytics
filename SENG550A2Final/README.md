@@ -42,6 +42,7 @@ The assignment demonstrates Type-2 Slowly Changing Dimensions (SCD), data migrat
 ├── .env                    # Database connection file (excluded)
 ├── Group10_Assignment2.pdf # Final report with screenshots & explanations
 └── README.md               # Project documentation
+```
 
 
 
