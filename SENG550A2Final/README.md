@@ -106,11 +106,11 @@ The assignment demonstrates Type-2 Slowly Changing Dimensions (SCD), data migrat
 
 
 ## Configure .env file
-PG_HOST=localhost
-PG_DB=sales_db
-PG_USER=postgres
-PG_PASSWORD=yourpassword
-MONGO_URI=mongodb://localhost:27017/
+- PG_HOST=localhost
+- PG_DB=sales_db
+- PG_USER=postgres
+- PG_PASSWORD=yourpassword
+- MONGO_URI=mongodb://localhost:27017/
 
 
 ## Run the ETL script
